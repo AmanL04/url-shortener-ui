@@ -10,6 +10,8 @@ The above website is the official URL Shortener of Dayananda Sagar College of En
     1.  Remove class ___show___ from **_#search-result_**
     2.  Toggle class ___checked___ to **_#hamburger-menu ul_** based on the condition "_e.target.checked == true_"
 
+    **OUTCOME** On clicking the hamburger menu on the top right, the menu opens.
+
 2.  Add click event listener to **_#hamburger input_**. The callback function should:
     1.  Remove class ___show___ from **_#search-result_**
     2.  Toggle class ___checked___ to **_#hamburger-menu ul_** based on the condition "_e.target.checked == true_"
