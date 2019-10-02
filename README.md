@@ -7,9 +7,9 @@ The above website is the official URL Shortener of Dayananda Sagar College of En
 ## TO DO List (to make the front-end interactive)
 
 1.  Add click event listener to **_#hamburger input_**. The callback function should:
-  *  Remove class ___show___ from **_#search-result_**
-  *  Toggle class ___checked___ to **_#hamburger-menu ul_** based on the condition "_e.target.checked == true_"
+    1.  Remove class ___show___ from **_#search-result_**
+    2.  Toggle class ___checked___ to **_#hamburger-menu ul_** based on the condition "_e.target.checked == true_"
 
 2.  Add click event listener to **_#hamburger input_**. The callback function should:
-  *  Remove class ___show___ from **_#search-result_**
-  *  Toggle class ___checked___ to **_#hamburger-menu ul_** based on the condition "_e.target.checked == true_"
+    1.  Remove class ___show___ from **_#search-result_**
+    2.  Toggle class ___checked___ to **_#hamburger-menu ul_** based on the condition "_e.target.checked == true_"
